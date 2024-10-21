@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1729352850.58836 "c:/Users/arlan/Workspace/Latex/BDII/lab4/DBII_Laboratorio_4/lab.tex" "lab.pdf" "lab" 1729352855.236 0
+["pdflatex"] 1729519510.45768 "c:/Users/arlan/Workspace/Latex/BDII/lab4/DBII_Laboratorio_4/lab.tex" "lab.pdf" "lab" 1729519518.01997 0
   "1.Portada/portada.tex" 1729300102 890 1c27323da8461eda0fd05f15ab426ba5 ""
   "2.Desarrollo/2.1.probs_resueltos.tex" 1729352443 2011 3a7b08319f2f7912b9fa38e46e1d348c ""
   "2.Desarrollo/2.2.probs_propuestos.tex" 1729352849 1412 eacdc97cd0b58ed8b76dba44a49e13f2 ""
@@ -177,12 +177,12 @@
   "Imagenes/probs_resueltos/pr7.png" 1729350984 55308 6d91e3b6f211cca6325ed093b2321b3e ""
   "Imagenes/probs_resueltos/pr8.png" 1729351021 32416 512b0110eff849b0a0d32260b2e3823e ""
   "Imagenes/probs_resueltos/pr9.png" 1729351090 62009 b15e85458078c08320133173db47a312 ""
-  "c:/Users/arlan/Workspace/Latex/BDII/lab4/DBII_Laboratorio_4/lab.tex" 1729300231 1706 1fc8392452d5faebc21054a139bc0544 ""
-  "lab.aux" 1729352854 5180 28818c1b2b9d7ec3be3fb94b54be0dad "pdflatex"
-  "lab.lof" 1729352854 1869 b54ca7248a8e2f94583bad46ef6f3954 "pdflatex"
-  "lab.out" 1729352854 2873 d1176bfb3fd231ecb0b7d0bfe296348a "pdflatex"
-  "lab.tex" 1729300231 1706 1fc8392452d5faebc21054a139bc0544 ""
-  "lab.toc" 1729352854 1575 18997ea619212b0121b155828f203f0b "pdflatex"
+  "c:/Users/arlan/Workspace/Latex/BDII/lab4/DBII_Laboratorio_4/lab.tex" 1729519506 1850 1007c4e6f895f82f89b1312e8c990b48 ""
+  "lab.aux" 1729519517 5180 28818c1b2b9d7ec3be3fb94b54be0dad "pdflatex"
+  "lab.lof" 1729519517 1869 b54ca7248a8e2f94583bad46ef6f3954 "pdflatex"
+  "lab.out" 1729519517 2873 d1176bfb3fd231ecb0b7d0bfe296348a "pdflatex"
+  "lab.tex" 1729519506 1850 1007c4e6f895f82f89b1312e8c990b48 ""
+  "lab.toc" 1729519517 1575 18997ea619212b0121b155828f203f0b "pdflatex"
   (generated)
   "lab.aux"
   "lab.lof"
